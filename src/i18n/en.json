@@ -1,0 +1,14 @@
+{
+  "home": {
+    "stories": "Stories",
+    "chatbot": "Chatbot",
+    "collections": "Collections",
+    "professionals": "Professionals",
+    "filters": "Filters",
+    "sort": "Sort",
+    "availableNow": "Available now",
+    "featured": "Featured Professionals",
+    "recommended": "Recommended",
+    "language": "Language"
+  }
+}
