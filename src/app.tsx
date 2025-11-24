@@ -19,10 +19,10 @@ const LangToggle = ()=> {
       <button onClick={()=>setLang('he')} className={"px-2 py-1 rounded "+(lang==='he'?'bg-blue-600 text-white':'bg-white')}>עברית</button>
       <button onClick={()=>setLang('en')} className={"px-2 py-1 rounded "+(lang==='en'?'bg-blue-600 text-white':'bg-white')}>EN</button>
     </div>
-  )
-}
+  ) /////1111111111111
+}/////22222222222222
 
-export default function App(){ /////test22222
+export default function App(){ 
   return (
     <I18nProvider>
       <div dir="rtl" className="min-h-screen bg-gradient-to-b from-white to-sky-50 text-slate-900">
