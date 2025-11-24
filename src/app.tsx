@@ -22,7 +22,7 @@ const LangToggle = ()=> {
   )
 }
 
-export default function App(){
+export default function App(){////hgvbkjkbvgh
   return (
     <I18nProvider>
       <div dir="rtl" className="min-h-screen bg-gradient-to-b from-white to-sky-50 text-slate-900">
